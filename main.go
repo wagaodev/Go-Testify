@@ -1,7 +1,6 @@
 package main
 
-import "fmt"
-
 func main() {
-	fmt.Println("Hello World")
+	// result := tax.CalculateTax(10.5)
+	// fmt.Println("Hello World", result)
 }
